@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+shift+n"], "command": "advanced_new_file_new" },
+    { "keys": ["ctrl+f5"], "command": "refresh_folder_list" },
+]
+
