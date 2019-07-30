@@ -1,8 +1,9 @@
 1. packageIntall packages by **Package Control: Install Package**:
-- Emmet
-- AdvancedNewFile - to create a new file from sublime
-- Materialize / Material Theme
-- AutoFileName - autocomplete filenames
+- `Emmet`
+- `AdvancedNewFile` - to create a new file from sublime
+- `Materialize` / `Material Theme`
+- `AutoFileName` - autocomplete filenames
+- `View In Browser` - open the file in a browser
 
 2. Update  settgins: **Preferences**->**Settigns**->**User**
 Put content of file "Preferences.sublime-settings"
