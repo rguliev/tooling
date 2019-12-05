@@ -27,5 +27,6 @@
 	"theme": "Material Augmented Reaction.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"show_definitions": false
+	"show_definitions": false,
+	"binary_file_patterns": [".svn/", ".git/", "node_modules/", "bower_components/", "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip"]
 }
